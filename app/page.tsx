@@ -9,7 +9,7 @@ const Page = () => {
       <div className='flex items-center gap-8 '>
         <Instructions/>
       </div>
-      <div className='mt-[91px]'> 
+      <div className='mt-[56px]'> 
         <Left/>
       </div>
        

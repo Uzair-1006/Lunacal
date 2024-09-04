@@ -1,6 +1,5 @@
 import Instructions from '@/Components/Instructions'; // Ensure this path is correct
 import Left from '@/Components/Left';
-// import LeftTop from '@/Components/Left-top';
 import React from 'react';
 
 const Page = () => {
